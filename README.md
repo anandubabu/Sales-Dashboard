@@ -16,8 +16,12 @@ Features:
 5. **Trend Analysis:** Time-series charts and trendlines illustrate sales performance over time, allowing users to identify seasonal patterns, growth trends, and potential areas for improvement.
 
 6. **Drill-Down Capability:** Users can seamlessly drill down from higher-level summaries to detailed insights. For example, starting with global performance, users can navigate to specific countries, markets, and even individual cities to understand localized trends.
+   
+![gss](https://github.com/anandubabu/Sales-Dashboard/assets/136991280/99ccdd44-80a6-4c33-b852-856d6e0ca368)
 
-7. **Data Filters:** Interactive filters and slicers empower users to customize their analysis experience. They can filter data by time period, product categories, or other relevant attributes.
 
-8. **Visual Representations:** Utilize a variety of visualizations, including bar charts, line graphs, pie charts, and scatter plots, to effectively communicate sales performance and comparisons.
+
+8. **Data Filters:** Interactive filters and slicers empower users to customize their analysis experience. They can filter data by time period, product categories, or other relevant attributes.
+
+9. **Visual Representations:** Utilize a variety of visualizations, including bar charts, line graphs, pie charts, and scatter plots, to effectively communicate sales performance and comparisons.
 
