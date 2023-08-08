@@ -2,6 +2,7 @@ Global Super Store Sales Analysis
 
 
 The Global Super Store Sales Analysis Visualization project offers a comprehensive and insightful exploration of sales data from a global chain of super stores. This project presents an interactive and visually appealing dashboard that facilitates in-depth analysis of sales performance across various dimensions, including region, country, market, state, and cities. By utilizing key performance indicators (KPIs) such as total unique product count, total orders, total profit, total sales, and total shipment cost, this project provides valuable insights into the operational and financial aspects of the super store business.
+link to watch : https://drive.google.com/file/d/1-0jNM1cRmZSBjxo9N4s-SI6Gm65CnY0h/view?usp=drivesdk
 
 Features:
 1. **Interactive Dashboard:** A user-friendly and intuitive dashboard interface enables users to dynamically interact with the data. Users can filter and drill down into specific regions, countries, markets, states, and cities to uncover trends and patterns.
